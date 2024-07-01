@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/maxdevos49/ISUHackathonSpring2018#readme",
   "devDependencies": {
-    "socket.io": "^2.0.4"
+    "socket.io": "^2.5.1"
   },
   "dependencies": {
     "express": "^4.16.3",
